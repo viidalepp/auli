@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## publications
 
-You can use the [editor on GitHub](https://github.com/viidalepp/auli/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Viidalepp, A. (2020). Representations of robots in science fiction film narratives as signifiers of human identity. Információs Társadalom, 20(4), 19. https://doi.org/10.22503/inftars.XX.2020.4.2
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## public lectures
 
-### Markdown
+[Science, fiction, folklore: mythologizing machine learning. Semiosalong: Mythokatalysis I](https://www.youtube.com/watch?v=kmfXFkbVWRM&ab_channel=Semiosalong). 17 Oct 2021.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## avalikud loengud
 
-# Header 1
-## Header 2
-### Header 3
+[Tehisintellektist semiootiku pilguga](https://youtu.be/gEoEBE7qHgY). Vaba Akadeemia avalik loeng. 04.03.2022.
 
-- Bulleted
-- List
+# social|academic
 
-1. Numbered
-2. List
+[A. Viidalepp on ORCID](https://orcid.org/0000-0002-6206-5681) 
+[A. Viidalepp on ETIS](https://www.etis.ee/CV/Auli_Viidalepp/eng)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/viidalepp/auli/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
