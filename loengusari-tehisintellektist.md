@@ -1,3 +1,8 @@
+---
+menu: nav
+permalink: /loengusari-tehisintellektist/
+---
+
 ## Vaba Akadeemia avalik loengusari tehisintellektist
 
 ### 1- Tehisintellektist semiootiku pilguga. 04.02.2022.
