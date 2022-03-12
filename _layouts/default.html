@@ -38,6 +38,10 @@
           <p>{% include nav.html %}</p>
         {% endif %}
 
+        {% if site.social %}
+          <p class="view">{% include social.html %}</p>
+        {% endif %}
+
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>

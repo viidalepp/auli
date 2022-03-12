@@ -5,6 +5,8 @@ permalink: /loengusari-tehisintellektist/
 
 ## Vaba Akadeemia avalik loengusari tehisintellektist
 
+[Vaba Akadeemia »](https://www.vabaakadeemia.ee/)
+
 ### 1- Tehisintellektist semiootiku pilguga. 04.02.2022.
 Esimene ettekanne puudutab tehisintellekti mõiste ajalugu, tähendusi ja osutusi. Mida on selle all mõeldud ja missuguseid objekte ja ideid on sellega erinevatel kümnenditel tähistatud? Vaatleme ka mõningaid autoreid, keda peetakse tänapäeval tehisintellekti-uuringute eelkäijateks ja tutvume nende peamiste ideedega.
 
