@@ -11,10 +11,6 @@ Viidalepp, A. (2019). [Self-description and phatic function in organisation cult
 [Science, fiction, folklore: mythologizing machine learning. Semiosalong: Mythokatalysis I](https://www.youtube.com/watch?v=kmfXFkbVWRM&ab_channel=Semiosalong). 17 Oct 2021.
 
 
-## avalikud loengud
-
-[Tehisintellektist semiootiku pilguga](https://youtu.be/gEoEBE7qHgY). Vaba Akadeemia avalik loeng. 04.03.2022.
-
 ## social | academic
 
 [A. Viidalepp on ORCID](https://orcid.org/0000-0002-6206-5681)<br>
