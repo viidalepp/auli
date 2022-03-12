@@ -3,3 +3,4 @@ description: academic website
 theme: jekyll-theme-minimal
 show_downloads: false
 google_analytics: UA-221361720-1
+nav: true
