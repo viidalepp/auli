@@ -1,0 +1,10 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+a {font-weight: 500;}
+a:hover,a:focus {font-weight: 500; text-decoration: underline;}
+header p.view {display:none}
+footer p {display: none;}
+footer p small {display: block;}
