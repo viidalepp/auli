@@ -38,9 +38,6 @@
           <p>{% include nav.html %}</p>
         {% endif %}
 
-        {% if site.social %}
-          <p class="view">{% include social.html %}</p>
-        {% endif %}
 
         {% if site.show_downloads %}
         <ul class="downloads">
@@ -56,6 +53,10 @@
 
       </section>
       <footer>
+        {% if site.social %}
+          {% include social.html %}
+        {% endif %}
+        
         {% if site.show_downloads %}
           {% if site.github.is_project_page %}
           <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
