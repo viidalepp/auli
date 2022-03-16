@@ -19,5 +19,5 @@ Sarja teine ettekanne räägib teadaolevatest vanakreeka ning keskaegsetest masi
 Vaata järgi: [Postimees TV »](https://teadus.postimees.ee/7467658/auli-viidalepp-ajaloolised-robotid)
 
 
-### 3- Robotite kujutamine tänapäeva ulmefilmides. 01.04.2022.
+### 3- Robotite kujutamine tänapäeva ulmefilmides. 22.04.2022.
 Viimasel kümnendil on avaldatud mitmeid ulmefilmiseeriaid, milles inimeselaadsed robotid täidavad ühiskonnas keskset ja normaliseeritud rolli. Samuti on nende loomaailmade aegruumid nihkunud lähemale nö päris reaalsusele meie ümber. Vaatame, millises rollis kujutatakse ulmeroboteid ja kuidas suhestub ulmekirjandus ühiskonnaga laiemas mõttes.
