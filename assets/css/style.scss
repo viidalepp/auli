@@ -12,7 +12,7 @@ h1,h2,h3,h4,h5,h6 {font-weight: 500;}
 p.social {text-align: right;}
 ul.social {list-style: none;text-align: right;}
 ul.social li {display: inline-block;font-variant: all-small-caps; font-size: 1.1em;padding: 0.1em;background: aliceblue;}
-li.nobg, li.nobg:hover {background: none;}
+ul.social li.nobg {background: none;width: 2.5em;}
 ul.social li:hover {background: lightcyan;}
 ul.social li a {font-weight: 600;}
 
