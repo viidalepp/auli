@@ -5,6 +5,8 @@ I’m Auli Viidalepp, a last year PhD student at the University of Tartu, Estoni
 
 ## public lectures and presentations
 
+["Machine semiosis" and the quasi-signs](https://www.youtube.com/watch?v=tj9V1Cak_-8) with Tyler J. Bennett, Gatherings in Biosemiotics, Olomouc, 1 Jul 2022.
+
 [Science, fiction, folklore: mythologizing machine learning. Semiosalong: Mythokatalysis I](https://www.youtube.com/watch?v=kmfXFkbVWRM&ab_channel=Semiosalong). 17 Oct 2021.
 
 
