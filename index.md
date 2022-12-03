@@ -2,6 +2,10 @@
 
 I’m Auli Viidalepp, a last year PhD student at the University of Tartu, Estonia. My background is in semiotics and my thesis focuses on the cultural representations and beliefs about technology, specifically the concept of artificial intelligence. I have written articles about [robots in science fiction](https://doi.org/10.22503/inftars.XX.2020.4.2), also GPT-3 and its public reception (in print), and am preparing some on the anthropomorphism of technology. The wider goal of my work is to reveal how knowledge is socially constructed and how discoourses borrow meanings from any available cultural ‘repositories’ for a novel or complex idea (such as AI/technology). These repositories include myths, (science) fiction, folklore, and animistic beliefs in almost every kind of discourse, including the scientific ones.
 
+[2023 winter school on AI & society »](/teaching/ai-society/)
+
+[Vaba Akadeemia avalik loengusari tehisintellektist »](/loengusari-tehisintellektist/)
+
 
 ## public lectures and presentations
 
