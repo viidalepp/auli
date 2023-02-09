@@ -5,7 +5,17 @@ permalink: /presentations/
 
 ## lectures, seminars and conference presentations
 
+### 2023
+
+10.03.2023. Technology, Society and Artificial Intelligence. Online talk, WG 6 of the Lithme COST Action: Language in the Human Machine Era (LITHME).
+
+23.02.2023. Automation Bias and the Anthropomorphic Connotations of Artificial Intelligence. On Filters and Philters. FACETS Advanced Seminar in Philosophy of Communication 2022/2023. 
+
 ### 2022
+
+12.12.2022. GPT-3: the reception and sociocultural functioning of large language generation models. Guest lecture, University of Wrocław.
+
+12.12.2022. The semiotic functioning of synthetic media. Guest lecture, University of Wrocław.
 
 3.11.2022. Narratives of artificial intelligence. Guest lecture in the course of general semiotics, Palacký University Olomouc.
 

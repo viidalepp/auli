@@ -23,3 +23,6 @@ Vaata järgi: [Vaba Akadeemia kanal »](https://youtu.be/Ii0nrxOD3AM) [Postimees
 Viimasel kümnendil on avaldatud mitmeid ulmefilmiseeriaid, milles inimeselaadsed robotid täidavad ühiskonnas keskset ja normaliseeritud rolli. Samuti on nende loomaailmade aegruumid nihkunud lähemale nö päris reaalsusele meie ümber. Vaatame, millises rollis kujutatakse ulmeroboteid ja kuidas suhestub ulmekirjandus ühiskonnaga laiemas mõttes.
 
 Vaata järgi: [Vaba Akadeemia kanal »](https://youtu.be/zYtZiJ1bcMI) [Postimees TV »](https://teadus.postimees.ee/7504328/vaba-akadeemia-loeng-auli-viidalepp-robotite-kujutamine-tanapaeva-ulmefilmides) [Vaba Akadeemia podcast »](https://postimees.pleier.ee/podcast/vaba-akadeemia/126639)
+
+
+### 4- Tehisintellekt tänapäeval: kuidas pildigeneraatorite levik mõjutab kunstnike elu ja tööd. 14.04.2023
