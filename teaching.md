@@ -1,9 +1,9 @@
 ---
 menu: nav
 permalink: /teaching/
-title: teaching
 ---
 
+## teaching
 
 ### 2023 
 
