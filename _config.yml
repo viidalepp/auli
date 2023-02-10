@@ -4,3 +4,4 @@ theme: jekyll-theme-minimal
 show_downloads: false
 nav: true
 social: true
+projects: true

@@ -39,6 +39,10 @@
           <p>{% include nav.html %}</p>
         {% endif %}
 
+        {% if site.projects %}
+          <p>{% include nav_projects.html %}</p>
+        {% endif %}
+
 
         {% if site.show_downloads %}
         <ul class="downloads">
