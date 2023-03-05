@@ -9,7 +9,7 @@ permalink: /presentations/
 
 10.03.2023. Technology, Society and Artificial Intelligence. Online talk, WG 6 of the Lithme COST Action: Language in the Human Machine Era (LITHME).
 
-23.02.2023. Automation Bias and the Anthropomorphic Connotations of Artificial Intelligence. On Filters and Philters. FACETS Advanced Seminar in Philosophy of Communication 2022/2023. 
+23.02.2023. Automation Bias and the Anthropomorphic Connotations of Artificial Intelligence. Online talk, On Filters and Philters. FACETS Advanced Seminar in Philosophy of Communication 2022/2023, Università di Torino. [Watch recording on FACETS-ERC channel »](https://youtu.be/_xuuQPe-VeM?t=6201)
 
 ### 2022
 

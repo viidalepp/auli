@@ -5,15 +5,16 @@ I’m Auli Viidalepp, a last year PhD student at the University of Tartu, Estoni
 
 ## upcoming
 
-23.02.2023. Automation Bias and the Anthropomorphic Connotations of Artificial Intelligence. Online talk, On Filters and Philters. FACETS Advanced Seminar in Philosophy of Communication 2022/2023. [More information »](https://drive.google.com/drive/folders/1t9kWSAdlTGPIwTGAGA7kOgasC0cCz9RW)
 
-10.03.2023. Technology, Society and Artificial Intelligence. Online talk, WG 6 of the Lithme COST Action: Language in the Human Machine Era (LITHME). To attend, please register with bettinamigge [at] ucd.ie
+10.03.2023, 13h CET. Technology, Society and Artificial Intelligence. Online talk, WG 6 of the Lithme COST Action: Language in the Human Machine Era (LITHME). To attend, please register with bettinamigge [at] ucd.ie
 
-In August 2023, I'm teaching [a course on technology and society](https://ut.ee/en/content/imagining-intelligent-technologies) as part of the summer university programme at the University of Tartu, Estonia. [Applications are open, Early Bird discount until Feb 28!](https://ut.ee/en/content/registration-summer-courses-2023)
+In August 2023, I'm teaching [a course on technology and society](https://ut.ee/en/content/imagining-intelligent-technologies) as part of the summer university programme at the University of Tartu, Estonia. [**Applications are open »**](https://ut.ee/en/content/registration-summer-courses-2023)
 
 
 
 ## recordings of public lectures and presentations
+
+[Automation Bias and the Anthropomorphic Connotations of Artificial Intelligence](https://youtu.be/_xuuQPe-VeM?t=6201). Online talk at FACETS Advanced Seminar in Philosophy of Communication "On Filters and Philters," Università di Torino. 23 Feb 2023.
 
 ["Machine semiosis" and the quasi-signs](https://www.youtube.com/watch?v=tj9V1Cak_-8) with Tyler J. Bennett, Gatherings in Biosemiotics, Olomouc, 1 Jul 2022.
 
