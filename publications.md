@@ -5,7 +5,7 @@ permalink: /publications/
 
 ## publications
 
-(2022, forthcoming). The semiotic functioning of synthetic media. *Információs Társadalom*.
+(2022). The semiotic functioning of synthetic media. *Információs Társadalom*, 22(4), 109-118. [doi:10.22503/inftars.XXII.2022.4.9](https://inftars.infonia.hu/article.php?doi=inftars.XXII.2022.4.9)
 
 (2022). [Sociocommunicative functions of a generative text: the case of GPT-3](https://www.researchgate.net/publication/366987824_Sociocommunicative_functions_of_a_generative_text_the_case_of_GPT-3). *Lexia. Rivista di Semiotica* 39-40, 177-192.
 
