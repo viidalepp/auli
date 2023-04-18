@@ -26,3 +26,10 @@ Vaata järgi: [Vaba Akadeemia kanal »](https://youtu.be/zYtZiJ1bcMI) [Postimees
 
 
 ### 4- Tehisintellekt tänapäeval: kuidas pildigeneraatorite levik mõjutab kunstnike elu ja tööd. 14.04.2023
+
+*"Tehisintellekti kasutamine kunstis on muutumas üha populaarsemaks, kuna see võimaldab kunstnikel luua uusi ja huvitavaid teoseid ning avardada oma loomingulist võimekust. Tehisintellekti rakendatakse kunstis mitmel erineval viisil, sealhulgas pilditöötluses, muusikas, kirjanduses ja disainis. Näiteks võib tehisintellekti abil luua täiesti uusi ja originaalseid pilte, muusikapalu või kirjutada tekste. Lisaks võib tehisintellekti kasutada ka kunsti analüüsimiseks ja kuraatorite tööks. Tehisintellekti kasutamine kunstis võib aidata kaasa uute kunstivormide ja -suundade tekkimisele ning avada uusi võimalusi kunsti loomisel ja mõistmisel."*
+ 
+Nõnda vastas ChatGPT, kui palusin sellel koostada lühikokkuvõte tehisintellekti kasutamisest kunstis. Kõik kõlab väga veenvalt ja peegeldab kindlasti mingil määral ühiskonnas levivaid lootusi ja ootusi tehisintellektile selles valdkonnas. Kuidas aga ikkagi on nende "uute, huvitavate ja originaalsete" piltidega, mis pildigeneraatoritest tulevad? Missugune on sellise loomingu mõju ühiskonnas ja mis saab kunstnikest? Vaatame loova ehk generatiivse tehisintellekti toimimispõhimõtteid, küsime, kust tulevad selle treenimiseks kasutatud algandmed ja kuidas see kõik on seotud autoriõiguste kaitsega.
+
+Vaata järgi: [Vaba Akadeemia kanal »](https://youtu.be/EhZi4UNd0qA) [Postimees TV »](https://tv.postimees.ee/7751600/vaba-akadeemia-auli-viidalepp-tehisintellekt-tanapaeval-kuidas-pildigeneraatorite-levik-mojutab-kunstnike-elu-ja-tood) [Vaba Akadeemia podcast »](https://postimees.pleier.ee/podcast/vaba-akadeemia/153506)
+
