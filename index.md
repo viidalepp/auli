@@ -7,7 +7,7 @@ In 2023, I founded a research network called [Technosemiotics](https://technosem
 
 ## upcoming
 
-In August 2023, I'm teaching [a course on technology and society](https://ut.ee/en/content/imagining-intelligent-technologies) as part of the summer university programme at the University of Tartu, Estonia. [**Applications are open »**](https://ut.ee/en/content/registration-summer-courses-2023)
+In August 2023, I'm teaching [a course on technology and society](https://ut.ee/en/content/imagining-intelligent-technologies) as part of the summer university programme at the University of Tartu, Estonia. 
 
 
 
