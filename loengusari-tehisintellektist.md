@@ -33,3 +33,11 @@ Nõnda vastas ChatGPT, kui palusin sellel koostada lühikokkuvõte tehisintellek
 
 Vaata järgi: [Vaba Akadeemia kanal »](https://youtu.be/EhZi4UNd0qA) [Postimees TV »](https://tv.postimees.ee/7751600/vaba-akadeemia-auli-viidalepp-tehisintellekt-tanapaeval-kuidas-pildigeneraatorite-levik-mojutab-kunstnike-elu-ja-tood) [Vaba Akadeemia podcast »](https://postimees.pleier.ee/podcast/vaba-akadeemia/153506)
 
+
+### 5- Sünteetiliste tekstide toimimine kultuuris. 16.06.2023
+
+Viimastel kuudel räägitakse eriti palju arvutiga genereeritud tekstidest ja nende mõjust ühiskonnas. On väljendatud hirme, et tehistekstid ujutavad kultuuriruumi üle valeinfoga, et nende olemasolu ja levik tähendavat, et me ei saa enam veebis avaldatud asjadest midagi usaldada jne. Millisel määral on hirmud põhjendatud? Millisel määral on üldse tegu uudse nähtusega? 
+
+Vaatleme mõnd uuemat näidet, kuidas sünteetilise sisu kasutamine on sekkunud ühiskonna- või kultuuriprotsessi. Abiks tulevad mõned semiootilised teooriad ja mudelid, mis võimaldavad mõtestada sünteetilise meedia toimimist kultuuris, näiteks Juri Lotmani (kultuuri)teksti sotsiokommunikatiivsete funktsioonide teooria.
+
+Vaata järgi: [Vaba Akadeemia kanal »](#) [Postimees TV »](https://kultuur.postimees.ee/7796796/vaba-akadeemia-loeng-auli-viidalepp-sunteetiliste-tekstide-toimimine-kultuuris) [Vaba Akadeemia podcast »](https://postimees.pleier.ee/podcast/vaba-akadeemia/157779)
