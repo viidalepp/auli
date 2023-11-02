@@ -7,6 +7,8 @@ permalink: /presentations/
 
 ### 2023
 
+7–11 August 2023. International Summer University [course on technology and society](https://ut.ee/en/content/imagining-intelligent-technologies), University of Tartu, Estonia. 
+
 10.03.2023. Technology, Society and Artificial Intelligence. Online talk, WG 6 of the Lithme COST Action: Language in the Human Machine Era (LITHME).
 
 23.02.2023. Automation Bias and the Anthropomorphic Connotations of Artificial Intelligence. Online talk, On Filters and Philters. FACETS Advanced Seminar in Philosophy of Communication 2022/2023, Università di Torino. [Watch recording on FACETS-ERC channel »](https://youtu.be/_xuuQPe-VeM?t=6201)

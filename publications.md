@@ -14,4 +14,6 @@ permalink: /publications/
 
 ### thesis
 
+(2023/upcoming) The Expected AI as a Sociocultural Construct and its Impact on the Discourse on Technology. PhD Thesis, University of Tartu.
+
 (2019) [Self-description and phatic function in organisation culture: The case of Ouishare](https://dspace.ut.ee/handle/10062/65214). Master’s Thesis, University of Tartu. [https://dspace.ut.ee/handle/10062/65214](https://dspace.ut.ee/handle/10062/65214)
