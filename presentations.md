@@ -7,6 +7,8 @@ permalink: /presentations/
 
 ### 2023
 
+30 November 2023. AI as a global network, production and value chain: Toward an ethical ontology of technology. Budapest Workshop on the Philosophy of Technology (BUDPT23).
+
 7–11 August 2023. International Summer University [course on technology and society](https://ut.ee/en/content/imagining-intelligent-technologies), University of Tartu, Estonia. 
 
 10.03.2023. Technology, Society and Artificial Intelligence. Online talk, WG 6 of the Lithme COST Action: Language in the Human Machine Era (LITHME).
