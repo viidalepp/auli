@@ -40,4 +40,11 @@ Viimastel kuudel räägitakse eriti palju arvutiga genereeritud tekstidest ja ne
 
 Vaatleme mõnd uuemat näidet, kuidas sünteetilise sisu kasutamine on sekkunud ühiskonna- või kultuuriprotsessi. Abiks tulevad mõned semiootilised teooriad ja mudelid, mis võimaldavad mõtestada sünteetilise meedia toimimist kultuuris, näiteks Juri Lotmani (kultuuri)teksti sotsiokommunikatiivsete funktsioonide teooria.
 
-Vaata järgi: [Vaba Akadeemia kanal »](#) [Postimees TV »](https://kultuur.postimees.ee/7796796/vaba-akadeemia-loeng-auli-viidalepp-sunteetiliste-tekstide-toimimine-kultuuris) [Vaba Akadeemia podcast »](https://postimees.pleier.ee/podcast/vaba-akadeemia/157779)
+Vaata järgi: [Vaba Akadeemia kanal »](https://youtu.be/alHmTKkTsW8?feature=shared) [Postimees TV »](https://kultuur.postimees.ee/7796796/vaba-akadeemia-loeng-auli-viidalepp-sunteetiliste-tekstide-toimimine-kultuuris) [Vaba Akadeemia podcast »](https://postimees.pleier.ee/podcast/vaba-akadeemia/157779)
+
+
+### 6- Kuidas piiritleda tehisintellekti? 05.01.2024
+
+Tehisintellekti käsitletakse meedias enamasti objektide või süsteemidena, millel on vastastikused suhted neid kasutavate inimestega (inimese ja arvuti interaktsioon). Harvem kõneldakse veebis toimivate süsteemide tehnilise loomise poolest ja selle ühiskondlikest komponentidest. Hoopis tähelepanuta on aga jäänud arvutisüsteemide materiaalne pool ning sellega seonduvad kultuurilised aspektid. Toetudes Kate Crawfordi «Tehisintellekti anatoomiale» ja kõneleja doktoritööle, piiritleb seekordne ettekanne tehisintellekti globaalse süsteemina, milles osalevad nii inimesed, kultuurid kui keskkond.
+
+Vaata järgi: [Vaba Akadeemia kanal »](https://youtu.be/5q5OZBwaFk8) [Postimees TV »](https://teadus.postimees.ee/7931497/vaba-akadeemia-loeng-auli-viidalepp-kuidas-piiritleda-tehisintellekti) [Vaba Akadeemia podcast »](https://postimees.pleier.ee/podcast/vaba-akadeemia/175396)
