@@ -1,5 +1,5 @@
 ---
-menu: nav
+menu: none
 permalink: /ai-in-iw/
 ---
 
