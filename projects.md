@@ -6,7 +6,11 @@ permalink: /projects/
 ## projects
 
 
-[**technosemiotics.net**](https://technosemiotics.net/) - A network and resource centre for research on technology and society that I am building based on the participants of my courses. 
+[A semiotic perspective on the use of artificial intelligence in the context of information warfare](/postdoc/) - postdoctoral research project funded by Estonian Research Council ([PUTJD1202](https://www.etis.ee/Portal/Projects/Display/52d888fe-7246-4743-9692-c716a6cdf2cd)), 02.2024–01.2026
+
+
+
+[**technosemiotics.net**](https://technosemiotics.net/) - A network and resource centre for research on technology and society, founded in January 2023. 
 
 
 

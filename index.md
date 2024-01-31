@@ -1,8 +1,12 @@
 
 
-I’m Auli Viidalepp, a last year PhD student at the University of Tartu, Estonia. My background is in semiotics and my thesis focuses on the cultural representations and beliefs about technology, specifically the concept of artificial intelligence. I have written articles about [robots in science fiction](https://www.researchgate.net/publication/349919165_Representations_of_robots_in_science_fiction_film_narratives_as_signifiers_of_human_identity), [GPT-3 and its public reception](https://www.researchgate.net/publication/366987824_Sociocommunicative_functions_of_a_generative_text_the_case_of_GPT-3), and [the semiotic functioning of synthetic media](https://www.researchgate.net/publication/369304924_The_semiotic_functioning_of_synthetic_media). The wider goal of my work is to reveal how knowledge is socially constructed and how discoourses borrow meanings from any available cultural ‘repositories’ for a novel or complex idea (such as AI or technology in general). These repositories include myths, (science) fiction, folklore, and animistic beliefs in almost every kind of discourse, including the scientific ones.
+Auli Viidalepp is a researcher in semiotics at the University of Tartu (Estonia) and a Visiting Researcher at the University of Turin (Italy). Her [post-doctoral project](/postdoc/) aims to develop an analytical framework based on cultural semiotics to investigate the impact and functioning of AI-generated media in society. 
 
-In 2023, I founded a research network called [Technosemiotics](https://technosemiotics.net/) where we hosted regular a [seminar *What technosemiotics can do?*](https://technosemiotics.net/what-can-technosemiotics-do/), discussing various topics at the intersection of technology, society and semiotics. 
+Her [PhD thesis focused on the cultural construction of the concept of AI](/phd/). She has published about [robots in science fiction](https://www.researchgate.net/publication/349919165_Representations_of_robots_in_science_fiction_film_narratives_as_signifiers_of_human_identity) and the semiotic functioning of synthetic media (focusing on [generated texts](https://www.researchgate.net/publication/369304924_The_semiotic_functioning_of_synthetic_media), [their reception](https://www.researchgate.net/publication/366987824_Sociocommunicative_functions_of_a_generative_text_the_case_of_GPT-3), and [generated videos](https://doi.org/10.1515/sem-2023-0167)). 
+
+
+In 2023, she founded a research network called [Technosemiotics](https://technosemiotics.net/). 
+
 
 
 ## upcoming
@@ -11,7 +15,7 @@ In 2023, I founded a research network called [Technosemiotics](https://technosem
 
 
 
-## recordings of public lectures and presentations
+## recordings of public lectures and presentations (in English)
 
 [Automation Bias and the Anthropomorphic Connotations of Artificial Intelligence](https://youtu.be/_xuuQPe-VeM?t=6201). Online talk at FACETS Advanced Seminar in Philosophy of Communication "On Filters and Philters," Università di Torino. 23 Feb 2023.
 
