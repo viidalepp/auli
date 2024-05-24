@@ -5,7 +5,7 @@ permalink: /topics/
 
 ## topics
 
-This is an example list of lecture and course topics that I have presented on in the past years. I am happy to speak on these topics or research and synthesize other related foci for a talk or an intensive course.
+*This is an example list of lecture and course topics that I have presented on in the past years. I am happy to speak on these topics or research and synthesize other related foci for a talk or an intensive course.*
 
 
 ### The history and the meaning of ‘artificial intelligence’

@@ -1,4 +1,5 @@
-
+---
+---
 
 Auli Viidalepp is a Research Fellow in Semiotics at the University of Tartu (Estonia) and a Visiting Researcher at the University of Turin (Italy). Her [post-doctoral project](/PUTJD1202/) aims to develop an analytical framework based on cultural semiotics to investigate the impact and functioning of AI-generated media in society. 
 

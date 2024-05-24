@@ -5,6 +5,11 @@ permalink: /presentations/
 
 ## lectures, seminars and conference presentations
 
+### 2024
+
+22 May 2024. The Politics of Θαῦμα Ἰδέσθαι from Ancient Greece to Contemporary Technologies. Presented at the European Academy of Religion (EuARe 2024), 20–23 May 2024, Palermo, Italy. [doi:10.5281/zenodo.11280246](https://doi.org/10.5281/zenodo.11280246).
+
+
 ### 2023
 
 30 November 2023. AI as a global network, production and value chain: Toward an ethical ontology of technology. Budapest Workshop on the Philosophy of Technology (BUDPT23).
