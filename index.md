@@ -12,8 +12,7 @@ In 2023, she founded a research network called [Technosemiotics](https://technos
 
 ## upcoming
 
-
-...
+22–28 July 2024. [Semiotic Resonance: Summer Retreat](https://isisemiotics.upol.cz/),  Palacký University, Olomouc, Czech Republic. The project is affiliated with an Erasmus+ BIP programme with Virtual Mobility 15–31 July 2024. 
 
 
 ## recordings of public lectures and presentations (in English)
