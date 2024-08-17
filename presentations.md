@@ -3,12 +3,13 @@ menu: nav
 permalink: /presentations/
 ---
 
-## lectures, seminars and conference presentations
+## lectures, seminars, conference presentations
 
 ### 2024
 
 22 May 2024. The Politics of Θαῦμα Ἰδέσθαι from Ancient Greece to Contemporary Technologies. Presented at the European Academy of Religion (EuARe 2024), 20–23 May 2024, Palermo, Italy. [doi:10.5281/zenodo.11280246](https://doi.org/10.5281/zenodo.11280246).
 
+15.04.2024. Semiootilised segadused: tähistatavate ja viitereaalsuste otsimine tehno-diskursustes. Semiootika osakonna teadusseminar, Tartu.
 
 ### 2023
 
