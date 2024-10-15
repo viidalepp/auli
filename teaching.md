@@ -3,6 +3,9 @@ menu: nav
 permalink: /teaching/
 ---
 
+[useful resources for writing »](/writing/)
+
+
 ## teaching
 
 ### 2023 
