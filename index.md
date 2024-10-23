@@ -17,11 +17,11 @@ In 2023, she founded a research network called [Technosemiotics](https://technos
 
 ## latest conference presentations
 
-23.10.2024. The AI as an envirotechnical system. Third Baltic Conference on the Environmental Humanities and Social Sciences (BALTEHUMS III), Faculty of History, Adam Mickiewicz University, Poznań, Poland, 23-25 October 2024. [doi:10.5281/zenodo.13983378](https://zenodo.org/doi/10.5281/zenodo.13983378)
+23.10.2024. The AI as an envirotechnical system. [doi:10.5281/zenodo.13983378](https://zenodo.org/doi/10.5281/zenodo.13983378)
 
-05.09.2024. Apotheosis, apocalypse, and the epistemic collapse: technology and the semiotics of fear. Signs and Realities: 16th World Congress of the IASS/AIS (Semcon2024) , Warsaw, Poland, 2-6 September 2024. [doi:10.5281/zenodo.13692242](https://zenodo.org/doi/10.5281/zenodo.13692242)
+05.09.2024. Apotheosis, apocalypse, and the epistemic collapse: technology and the semiotics of fear. [doi:10.5281/zenodo.13692242](https://zenodo.org/doi/10.5281/zenodo.13692242)
 
-22.05.2024. The Politics of Θαῦμα Ἰδέσθαι from Ancient Greece to Contemporary Technologies. Presented at the European Academy of Religion (EuARe 2024), 20–23 May 2024, Palermo, Italy. [doi:10.5281/zenodo.11280246](https://doi.org/10.5281/zenodo.11280246).
+22.05.2024. The Politics of Θαῦμα Ἰδέσθαι from Ancient Greece to Contemporary Technologies. [doi:10.5281/zenodo.11280246](https://doi.org/10.5281/zenodo.11280246).
 
 
 [Vaba Akadeemia avalik loengusari tehisintellektist »](/loengusari-tehisintellektist/)
