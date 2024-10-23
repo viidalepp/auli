@@ -12,7 +12,7 @@ In 2023, she founded a research network called [Technosemiotics](https://technos
 
 ## upcoming
 
-
+...
 
 
 ## latest conference presentations
