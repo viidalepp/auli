@@ -7,19 +7,21 @@ permalink: /presentations/
 
 ### 2024
 
-5 Sep 2024. Apotheosis, apocalypse, and the epistemic collapse: technology and the semiotics of fear. Signs and Realities: 16th World Congress of the IASS/AIS (Semcon2024) , Warsaw, Poland, 2-6 September 2024. [doi:10.5281/zenodo.13692242](https://zenodo.org/doi/10.5281/zenodo.13692242)
+23.10.2024. The AI as an envirotechnical system. Third Baltic Conference on the Environmental Humanities and Social Sciences (BALTEHUMS III), Faculty of History, Adam Mickiewicz University, Poznań, Poland, 23-25 October 2024. [doi:10.5281/zenodo.13983378](https://zenodo.org/doi/10.5281/zenodo.13983378)
 
-22 May 2024. The Politics of Θαῦμα Ἰδέσθαι from Ancient Greece to Contemporary Technologies. Presented at the European Academy of Religion (EuARe 2024), 20–23 May 2024, Palermo, Italy. [doi:10.5281/zenodo.11280246](https://doi.org/10.5281/zenodo.11280246).
+05.09.2024. Apotheosis, apocalypse, and the epistemic collapse: technology and the semiotics of fear. Signs and Realities: 16th World Congress of the IASS/AIS (Semcon2024) , Warsaw, Poland, 2-6 September 2024. [doi:10.5281/zenodo.13692242](https://zenodo.org/doi/10.5281/zenodo.13692242)
+
+22.05.2024. The Politics of Θαῦμα Ἰδέσθαι from Ancient Greece to Contemporary Technologies. Presented at the European Academy of Religion (EuARe 2024), 20–23 May 2024, Palermo, Italy. [doi:10.5281/zenodo.11280246](https://doi.org/10.5281/zenodo.11280246).
 
 15.04.2024. Semiootilised segadused: tähistatavate ja viitereaalsuste otsimine tehno-diskursustes. Semiootika osakonna teadusseminar, Tartu.
 
 ### 2023
 
-30 November 2023. AI as a global network, production and value chain: Toward an ethical ontology of technology. Budapest Workshop on the Philosophy of Technology (BUDPT23).
+30.11.2023. AI as a global network, production and value chain: Toward an ethical ontology of technology. Budapest Workshop on the Philosophy of Technology (BUDPT23).
 
-18 August 2023. Computer systems as semiotic technologies.
+18.08.2023. Computer systems as semiotic technologies.
 
-7–11 August 2023. International Summer University [course on technology and society](https://ut.ee/en/content/imagining-intelligent-technologies), University of Tartu, Estonia. 
+7–11.08.2023. International Summer University [course on technology and society](https://ut.ee/en/content/imagining-intelligent-technologies), University of Tartu, Estonia. 
 
 10.03.2023. Technology, Society and Artificial Intelligence. Online talk, WG 6 of the Lithme COST Action: Language in the Human Machine Era (LITHME).
 
