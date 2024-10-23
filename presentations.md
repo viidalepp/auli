@@ -39,7 +39,7 @@ permalink: /presentations/
 
 11.10.2022. Automation bias and anthropomorphism of technology: implications for the military. 14th Annual Conference of the International Society of Military Sciences, Lisbon. [Book of abstracts](https://www.ium.pt/s/wp-content/uploads/ISMS-Conference_Book-of-Abstracts.pdf)
 
-1.7.2022. Machine Semiosis and the Quasi-signs (with T. J. Bennett). Gatherings in Biosemiotics, Olomouc, Czechia.
+1.7.2022. Machine Semiosis and the Quasi-signs (with T. J. Bennett). Gatherings in Biosemiotics, Olomouc, Czechia. [Watch in youtube »](https://www.youtube.com/watch?v=tj9V1Cak_-8)
 
 18.6.2022. Intelligent technologies as human’s Other: the myth of machine semiosis. 4th International Conference on Semiotics and Visual Communication, Cyprus University of Technology.
 
@@ -54,6 +54,8 @@ permalink: /presentations/
 11.11.2021. Technology as magic: historical automata as magical objects. Autumn School "Dialogues with Magic", Saka, Estonia.
 
 20.10.2021. Anthropomorphism of intelligent technologies: the case of GPT-3. EU COST project LITHME Whole Action Conference, online.
+
+17.10.2021. Science, fiction, folklore: mythologizing machine learning. Semiosalong: Mythokatalysis I. [Watch in youtube »](https://www.youtube.com/watch?v=kmfXFkbVWRM&ab_channel=Semiosalong)
 
 11.-14.10.2021. What happens in a language transformer? A semiotic perspective on the reception of GPT-3 op-ed in The Guardian. 13th Annual Conference of the International Society of Military Sciences, Ontario/online. [Book of abstracts](https://www.isofms.org/resource/dm/161191709015772284.pdf)
 

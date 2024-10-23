@@ -12,16 +12,17 @@ In 2023, she founded a research network called [Technosemiotics](https://technos
 
 ## upcoming
 
-22–28 July 2024. [Semiotic Resonance: Summer Retreat](https://isisemiotics.upol.cz/),  Palacký University, Olomouc, Czech Republic. The project is affiliated with an Erasmus+ BIP programme with Virtual Mobility 15–31 July 2024. 
 
 
-## recordings of public lectures and presentations (in English)
 
-[Automation Bias and the Anthropomorphic Connotations of Artificial Intelligence](https://youtu.be/_xuuQPe-VeM?t=6201). Online talk at FACETS Advanced Seminar in Philosophy of Communication "On Filters and Philters," Università di Torino. 23 Feb 2023.
+## latest conference presentations
 
-["Machine semiosis" and the quasi-signs](https://www.youtube.com/watch?v=tj9V1Cak_-8) with Tyler J. Bennett, Gatherings in Biosemiotics, Olomouc, 1 Jul 2022.
+23.10.2024. The AI as an envirotechnical system. Third Baltic Conference on the Environmental Humanities and Social Sciences (BALTEHUMS III), Faculty of History, Adam Mickiewicz University, Poznań, Poland, 23-25 October 2024. [doi:10.5281/zenodo.13983378](https://zenodo.org/doi/10.5281/zenodo.13983378)
 
-[Science, fiction, folklore: mythologizing machine learning. Semiosalong: Mythokatalysis I](https://www.youtube.com/watch?v=kmfXFkbVWRM&ab_channel=Semiosalong). 17 Oct 2021.
+05.09.2024. Apotheosis, apocalypse, and the epistemic collapse: technology and the semiotics of fear. Signs and Realities: 16th World Congress of the IASS/AIS (Semcon2024) , Warsaw, Poland, 2-6 September 2024. [doi:10.5281/zenodo.13692242](https://zenodo.org/doi/10.5281/zenodo.13692242)
+
+22.05.2024. The Politics of Θαῦμα Ἰδέσθαι from Ancient Greece to Contemporary Technologies. Presented at the European Academy of Religion (EuARe 2024), 20–23 May 2024, Palermo, Italy. [doi:10.5281/zenodo.11280246](https://doi.org/10.5281/zenodo.11280246).
+
 
 [Vaba Akadeemia avalik loengusari tehisintellektist »](/loengusari-tehisintellektist/)
 
