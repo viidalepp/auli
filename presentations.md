@@ -7,6 +7,9 @@ permalink: /presentations/
 
 ### 2024
 
+13.11.2024. Infomõjutustegevus ja tehisintellekt. —- Semiootiline lähenemine väärinfole ja
+infomõjutustegevusele (FLSE.00.346). [doi:10.5281/zenodo.14133836](https://zenodo.org/doi/10.5281/zenodo.14133836)
+
 23.10.2024. The AI as an envirotechnical system. Third Baltic Conference on the Environmental Humanities and Social Sciences (BALTEHUMS III), Faculty of History, Adam Mickiewicz University, Poznań, Poland, 23-25 October 2024. [doi:10.5281/zenodo.13983378](https://zenodo.org/doi/10.5281/zenodo.13983378)
 
 05.09.2024. Apotheosis, apocalypse, and the epistemic collapse: technology and the semiotics of fear. Signs and Realities: 16th World Congress of the IASS/AIS (Semcon2024) , Warsaw, Poland, 2-6 September 2024. [doi:10.5281/zenodo.13692242](https://zenodo.org/doi/10.5281/zenodo.13692242)
