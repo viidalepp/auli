@@ -14,6 +14,8 @@ permalink: /projects/
 
 
 
-[LITHME](https://lithme.eu/) - EU COST Action [CA19102](https://www.cost.eu/actions/CA19102/) "Language in the human-machine era" where I am member of Working Group #6 Ideologies, beliefs, attitudes, as well as the Grant Awarding Coordinator.
+[LITHME](https://lithme.eu/) (2020–2024) - EU COST Action [CA19102](https://www.cost.eu/actions/CA19102/) "Language in the human-machine era" where I was a member of Working Group #6 Ideologies, beliefs, attitudes, as well as the Grant Awarding Coordinator.
+
+
 
 

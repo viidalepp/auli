@@ -5,6 +5,9 @@ permalink: /publications/
 
 ## publications
 
+(forthcoming) Apotheosis, apocalypse, and the epistemic collapse: technology and
+the fear of future. In *Through the Lens of Dread: Exploring the Meaning-Making of Fear in the Mediasphere*, edited by Merit Maran, Andreas Ventsel, Mari-Liis Madisson. Tallinn: Tallinn University Press.
+
 (forthcoming) Artificial intelligence as a *filter* and as a *philter*. *Lexia. Rivista di Semiotica*.
 
 Arkhipova, Daria; Viidalepp, Auli (2023). Lotman’s semiotics of culture in the age of AI: analyzing the cultural dynamics of AI-generated video art in the semiosphere. *Semiotica*, 1−12. DOI: [10.1515/sem-2023-0167](https://doi.org/10.1515/sem-2023-0167).

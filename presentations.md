@@ -5,6 +5,10 @@ permalink: /presentations/
 
 ## lectures, seminars, conference presentations
 
+### 2025
+
+22.01.2025. The role of narratives in the weaponisation of deepfakes. Winter School “Narrative and the Mind”, Groningen, 20–24 January 2025. [doi:10.5281/zenodo.14708733](https://doi.org/10.5281/zenodo.14708733)
+
 ### 2024
 
 13.11.2024. Infomõjutustegevus ja tehisintellekt. —- Semiootiline lähenemine väärinfole ja
