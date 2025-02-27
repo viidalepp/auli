@@ -8,6 +8,14 @@ permalink: /teaching/
 
 [useful resources for writing »](/writing/)
 
+### 2025
+
+[Semiotics, Technology and Society](/teaching/sts2025/). UniTartu Summer School
+
+### 2024
+
+[Infomõjutustegevus ja tehisintellekt](https://doi.org/10.5281/zenodo.14133835). Külalisloeng aines [Semiootiline lähenemine väärinfole ja infomõjutustegevusele](https://ois2.ut.ee/#/courses/FLSE.00.346/version/ac64593d-c43f-52c5-bf59-150a472b69d6/details). [Information influence activities and artificial intelligence. Guest lecture in the course *Semiotic Approach to Misinformation and Information Influence Activities*]
+
 ### 2023 
 
 [2023 Olomouc winter school on AI & society »](http://technosemiotics.com/2023-ws-ai/) - a 5-day intensive course on technology and society at Palacký University Olomouc
