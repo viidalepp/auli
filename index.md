@@ -1,7 +1,7 @@
 ---
 ---
 
-Auli Viidalepp is a Research Fellow in Semiotics at the University of Tartu (Estonia) and a Visiting Researcher at the University of Turin (Italy). Currently, she is developing an analytical framework based on cultural semiotics to investigate the impact and functioning of AI-generated media in society. 
+Auli Viidalepp is a Research Fellow in Semiotics at the University of Tartu (Estonia) and a Visiting Researcher at the University of Turin (Italy). Currently, she is developing an analytical framework based on cultural semiotics to investigate the impact and functioning of AI-generated media in society (on the example of deepfakes). Her further research interests include the environmental and sociocultural implications of technology and decolonial perspectives seeking to address these issues.
 
 In 2023, she founded a research network called [Technosemiotics](https://technosemiotics.net/). 
 
