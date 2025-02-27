@@ -8,7 +8,7 @@ In 2023, she founded a research network called [Technosemiotics](https://technos
 
 ## upcoming
 
-28 July - 8 August 2025: [**Semiotics, Technology and Society**](https://ut.ee/en/content/semiotics-technology-and-society). UniTartu Summer School course. Application period: 1—30 April 2025.
+28 July - 8 August 2025: [**Semiotics, Technology and Society**](/teaching/sts2025/). UniTartu Summer School course. Application period: 1—30 April 2025.
 
 
 ## latest publications
