@@ -8,7 +8,9 @@ In 2023, she founded a research network called [Technosemiotics](https://technos
 
 ## upcoming
 
-28 July - 8 August 2025: [**Semiotics, Technology and Society**](/teaching/sts2025/). UniTartu Summer School course. Application period: 1—30 April 2025.
+28 July - 8 August 2025: [**Semiotics, Technology and Society**](/teaching/sts2025/). UniTartu Summer School course.
+
+Autumn semester 2025: [Technosemiotics (FLSE.00.361, 6 ECTS)](https://ois2.ut.ee/#/courses/FLSE.00.361/version/c8216743-8523-ac31-93d5-f8242cb07326/details), elective course at the University of Tartu.
 
 
 ## latest publications
@@ -16,7 +18,7 @@ In 2023, she founded a research network called [Technosemiotics](https://technos
 (forthcoming) Apotheosis, apocalypse, and the epistemic collapse: technology and
 the fear of future. In *Through the Lens of Dread: Exploring the Meaning-Making of Fear in the Mediasphere*, edited by Merit Maran, Andreas Ventsel, Mari-Liis Madisson. Tallinn: Tallinn University Press.
 
-(forthcoming) Artificial intelligence as a *filter* and as a *philter*. *Lexia. Rivista di Semiotica*.
+Viidalepp, Auli (2025). Artificial intelligence as a *filter* and as a *philter*. In: Piluso, Francesco and Leone, Massimo (eds.) [*Semiotica dei filtri*. I saggi di Lexia 60.](https://www.aracneeditrice.eu/free-download/9791221818055.pdf) Rome: Aracne, 119-134.
 
 Arkhipova, Daria; Viidalepp, Auli (2023). Lotman’s semiotics of culture in the age of AI: analyzing the cultural dynamics of AI-generated video art in the semiosphere. *Semiotica*, 1−12. DOI: [10.1515/sem-2023-0167](https://doi.org/10.1515/sem-2023-0167).
 
