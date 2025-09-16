@@ -14,6 +14,8 @@ permalink: /topics/
 - Conceptual frameworks from science and technology studies (STS) and semiotics (in comparison)
 - Sociotechnical systems
 - Semiotics and artificial intelligence systems (AIS)
+- Material impact of AIS
+- Semiotic impact of AIS
 - Interpretive flexibility of sociotechnical systems: unexpected uses of technology
 - The (perceived) impact of generative AI
 - The impact of AIS on institutions and social contracts (theoretical or case studies)
