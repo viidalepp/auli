@@ -28,7 +28,7 @@ infomõjutustegevusele (FLSE.00.346). [doi:10.5281/zenodo.14133836](https://zeno
 
 30.11.2023. AI as a global network, production and value chain: Toward an ethical ontology of technology. Budapest Workshop on the Philosophy of Technology (BUDPT23).
 
-18.08.2023. Computer systems as semiotic technologies.
+18.08.2023. Computer systems as semiotic technologies. The International Committee for the History of Technology (ICOHTEC) 50th Annual Meeting and Symposium, 14-18 August 2023, Tallinn & Tartu, Estonia.
 
 7–11.08.2023. International Summer University [course on technology and society](https://ut.ee/en/content/imagining-intelligent-technologies), University of Tartu, Estonia. 
 
