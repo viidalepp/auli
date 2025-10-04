@@ -14,7 +14,7 @@ permalink: /resources/critical-ai/
 - [Joanna Bryson](https://www.joannajbryson.org/) 
 - [Kate Crawford](https://www.katecrawford.net/) studies the material impact of AI systems
 - [Timnit Gebru](https://scholar.google.com/citations?user=lemnAcwAAAAJ&hl=en)
-- [Sasha Luccioni]()
+- [Sasha Luccioni](https://www.sashaluccioni.com/) studies AI and its climate impact @ HuggingFace
 - [Margaret Mitchell](https://www.m-mitchell.com/)
 - [Safiya U. Noble](https://safiyaunoble.com/)
 - [Beth Singler](https://bvlsingler.com/) studies the social, ethical, philosophical and religious implications of robotics and AIS
@@ -27,7 +27,9 @@ permalink: /resources/critical-ai/
 
 [Distributed AI Research Institute (DAIR)](https://www.dair-institute.org/)
 
-[Institute for Science and Ethics (IWE, Bonn)](https://www.youtube.com/@iwe_bonn), led by Aimee van Wynsberghe, focuses on developing research and policy guidelines for the green, proportionate and sustainable development and use of AI
+[AI Now Institute](https://ainowinstitute.org/) produces diagnosis and policy research on AI
+
+[Institute for Science and Ethics (IWE, Bonn)](https://www.iwe.uni-bonn.de/en), led by Aimee van Wynsberghe, focuses on developing research and policy guidelines for the green, proportionate and sustainable development and use of AI
 
 [Knowing Machines](https://knowingmachines.org/about) a research project tracing the histories, practices, and politics of machine learning systems. Led by Kate Crawford
 
@@ -52,7 +54,7 @@ permalink: /resources/critical-ai/
 
 [Algorithmic Justice League](https://www.ajl.org/)
 
-[AI Now Institute](https://ainowinstitute.org/)
+
 
 [Women in AI Ethics](https://medium.com/women-in-ai-ethics) Medium publication
 
