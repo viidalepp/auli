@@ -14,7 +14,9 @@ permalink: /resources/critical-ai/
 - [Joanna Bryson](https://www.joannajbryson.org/) 
 - [Kate Crawford](https://www.katecrawford.net/) studies the material impact of AI systems
 - [Timnit Gebru](https://scholar.google.com/citations?user=lemnAcwAAAAJ&hl=en)
+- [Alex Hanna](https://alex-hanna.com/)
 - [Sasha Luccioni](https://www.sashaluccioni.com/) studies AI and its climate impact @ HuggingFace
+- [Milagros Miceli](https://milamiceli.com/) focuses on conditions and power dynamics in data work behind machine learning systems
 - [Margaret Mitchell](https://www.m-mitchell.com/)
 - [Safiya U. Noble](https://safiyaunoble.com/)
 - [Beth Singler](https://bvlsingler.com/) studies the social, ethical, philosophical and religious implications of robotics and AIS
