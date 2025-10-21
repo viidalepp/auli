@@ -16,6 +16,17 @@ Caroline Ammon, [Introduction Section for Research Papers](https://www.sjsu.edu/
 [Longer explanation of CARS model by USC Libraries](https://libguides.usc.edu/writingguide/CARS) (the website includes also other guides and recommendations on how to write a social sciences paper)
 
 
-### Literature review
+### literature review
 
 [ResearchRabbit](https://researchrabbitapp.com/)
+
+
+### qualitative data analysis
+
+[An Integrated Qualitative Analysis Environment with Obsidian](https://fulcra.design/Posts/An-Integrated-Qualitative-Analysis-Environment-with-Obsidian/)
+
+
+### writing apps
+
+- [Obsidian](https://obsidian.md/)
+- [Scrivener](https://www.literatureandlatte.com/scrivener/overview)
