@@ -20,6 +20,11 @@ Caroline Ammon, [Introduction Section for Research Papers](https://www.sjsu.edu/
 
 [ResearchRabbit](https://researchrabbitapp.com/)
 
+### references & lawful citation practices
+
+- [Zotero](https://www.zotero.org/) reference management system, has browser plugins for capturing publications with their metadata
+- [Best Practices to Avoid Plagiarism](https://owl.purdue.edu/owl/avoiding_plagiarism/best_practices.html) (Purdue University Online Writing Lab)
+
 
 ### qualitative data analysis
 
