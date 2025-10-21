@@ -24,7 +24,7 @@ permalink: /resources/envirotech-ai/
 
 - [Who’s powering AI? Shining a light on the AI data work industry](https://techequity.us/2025/06/25/whos-powering-ai-shining-a-light-on-the-ai-data-work-industry/) overview by TechEquity
 
-- [Ghost Workers in the AI Machine](https://cwa-union.org/ghost-workers-ai-machine): U.S. Data Workers Speak Out About Big Tech’s Exploitation. By AWU-CWA | TechEquity
+- [Ghost Workers in the AI Machine](https://cwa-union.org/ghost-workers-ai-machine): U.S. Data Workers Speak Out About Big Tech’s Exploitation. By AWU-CWA & TechEquity
 
 
 ## tech news
@@ -36,3 +36,4 @@ permalink: /resources/envirotech-ai/
 ## research projects
 
 - [Planetary AI: Networks, Actors, and Markets](https://planetaryai.net/) - a four-year UKRI-funded research project
+
