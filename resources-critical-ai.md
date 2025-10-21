@@ -25,7 +25,7 @@ permalink: /resources/critical-ai/
 - [Shoshana Zuboff](https://shoshanazuboff.com/)
 
 
-## research centers & peojects
+## research centers & projects
 
 [Distributed AI Research Institute (DAIR)](https://www.dair-institute.org/)
 
