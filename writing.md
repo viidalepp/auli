@@ -26,12 +26,16 @@ Caroline Ammon, [Introduction Section for Research Papers](https://www.sjsu.edu/
 - [Best Practices to Avoid Plagiarism](https://owl.purdue.edu/owl/avoiding_plagiarism/best_practices.html) (Purdue University Online Writing Lab)
 
 
-### qualitative data analysis
+### (qualitative) data analysis
 
-[An Integrated Qualitative Analysis Environment with Obsidian](https://fulcra.design/Posts/An-Integrated-Qualitative-Analysis-Environment-with-Obsidian/)
+- [An Integrated Qualitative Analysis Environment with Obsidian](https://fulcra.design/Posts/An-Integrated-Qualitative-Analysis-Environment-with-Obsidian/)
+- [Voyant Tools](https://voyant-tools.org/) - a web-based reading and analysis environment for digital texts
 
+### editing
+- [Hemingway Editor](https://hemingwayapp.com/) (does not really work on semiotic texts)
 
 ### writing apps
 
 - [Obsidian](https://obsidian.md/)
 - [Scrivener](https://www.literatureandlatte.com/scrivener/overview)
+  - [Using Scrivener for Writing Scientific Papers](https://danielvreeman.com/blog/2015/02/26/using-scrivener-for-writing-scientific-papers/) by Daniel Vreeman
