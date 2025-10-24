@@ -1,23 +1,25 @@
 ---
+title: research topics
 menu: nav
 permalink: /topics/
 ---
+## research topics
 
-## frameworks
+### frameworks
 
 - Social semiotics
 - Technosemiotics: environmental, social and cultural impact of technology
 - Science and Technology Studies
 
 
-## methods
+### methods
 
 - Discourse analysis
 - Grounded theory
 - Sociotechnical analysis
 - Envirotechnical analysis
 
-## possible topics for supervision and research collaboration
+### possible topics for supervision and research collaboration
 
 - Conceptual frameworks from science and technology studies (STS) and semiotics (in comparison)
 - Sociotechnical systems
