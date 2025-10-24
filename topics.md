@@ -3,13 +3,21 @@ menu: nav
 permalink: /topics/
 ---
 
-## possible topics for supervision and research collaboration
+## frameworks
 
+- Social semiotics
+- Technosemiotics: environmental, social and cultural impact of technology
+- Science and Technology Studies
+
+
+## methods
+
+- Discourse analysis
+- Grounded theory
+- Sociotechnical analysis
 - Envirotechnical analysis
-- Technosemiotic perspectives
-- Technology as cultural techniques
-- Concepts and models as technologies
-- Environmental, social and cultural impact of technology
+
+## possible topics for supervision and research collaboration
 
 - Conceptual frameworks from science and technology studies (STS) and semiotics (in comparison)
 - Sociotechnical systems
@@ -33,8 +41,4 @@ permalink: /topics/
 - Historical automata
 
 
-## methods
 
-- Discourse analysis
-- Grounded theory
-- Envirotechnical analysis
