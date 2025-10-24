@@ -8,14 +8,15 @@ permalink: /uurimisteemad/
 - Keskkonnatehnilised süsteemid
 - Keskkonna ja tehnoloogiaga seotud väärtused
 - Tehnoloogia materiaalsus ja keskkonnamõju
+- Tehnosemiootika teooria ja juhtumianalüüsid
 
-
+ 
 - Sotsiotehnilised kujutelmad
 - Antropomorfsed ja zoomorfsed kujutlused tehisintellektist
 - Tehnoloogia tõlgenduspaindlikkus
 - (Generatiivse) tehisintellekti kultuurimõju
 
-
+ 
 - Sotsiotehnilised süsteemid
 - Teadus- ja tehnoloogiauuringud
 - Tehnoloogia ajalugu
