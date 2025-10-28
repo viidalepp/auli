@@ -1,8 +1,9 @@
 ---
+title: research(ers) in critical ai
 permalink: /resources/critical-ai/
 ---
 
-# research in critical ai
+# research(ers) in critical ai
 
 ## critical ai scholars
 
@@ -20,8 +21,9 @@ permalink: /resources/critical-ai/
 - [Margaret Mitchell](https://www.m-mitchell.com/)
 - [Safiya U. Noble](https://safiyaunoble.com/)
 - [Beth Singler](https://bvlsingler.com/) studies the social, ethical, philosophical and religious implications of robotics and AIS
+- [Sahana Udupa](https://www.en.ethnologie.uni-muenchen.de/staff/professors/udupa/index.html) - media anthropologist and founder of the [Center for Digital Dignity](https://www.fordigitaldignity.com/)
 - [Shannon Vallor](https://www.shannonvallor.net/)
-- [Aimee van Wynsberghe]() focuses on Sustainable AI frameworks and policies
+- [Aimee van Wynsberghe](https://www.iwe.uni-bonn.de/en/team/aimee-van-wynsberghe) focuses on AI ethics, Sustainable AI frameworks and policies
 - [Shoshana Zuboff](https://shoshanazuboff.com/)
 
 
@@ -36,6 +38,8 @@ permalink: /resources/critical-ai/
 [Knowing Machines](https://knowingmachines.org/about) a research project tracing the histories, practices, and politics of machine learning systems. Led by Kate Crawford
 
 [Histories of Artificial Intelligence: A Genealogy of Power](https://www.ai.hps.cam.ac.uk/) (Mellon Sawyer sminar at the University of Cambridge that took place from May 2020 to December 2021)
+
+[Center for Digital Dignity](https://www.fordigitaldignity.com/)
 
 
 ## academic journals
