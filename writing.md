@@ -39,3 +39,7 @@ Caroline Ammon, [Introduction Section for Research Papers](https://www.sjsu.edu/
 - [Obsidian](https://obsidian.md/)
 - [Scrivener](https://www.literatureandlatte.com/scrivener/overview)
   - [Using Scrivener for Writing Scientific Papers](https://danielvreeman.com/blog/2015/02/26/using-scrivener-for-writing-scientific-papers/) by Daniel Vreeman
+
+### structured thinking
+
+- [Coggle.it](https://coggle.it/) mindmapping web app
