@@ -13,3 +13,5 @@ Daiara Tukano (2023): An Urgent Call to Protect the Amazon: An Interfaith Rainfo
 
 Ailton Krenak (2025): [Pour une florescidade et une florestania : habiter la Terre à l’Anthropocène](https://www.youtube.com/watch?v=0r75TSGxQBo). Conférence du 29 avril 2025, Collège de France. ([Version française](https://www.youtube.com/watch?v=GHViWnWMOKk))
 
+[Ailton Krenak e Eduardo Viveiros de Castro - Conversa na Rede. 17 Aug 2023](https://www.youtube.com/watch?v=wp5NlnNE4BI).
+
