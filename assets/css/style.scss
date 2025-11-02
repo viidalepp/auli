@@ -21,3 +21,7 @@ ul.social li.nobg {background: none;width: 1.1em;}
 ul.social li:hover {background: lightcyan;}
 ul.social li a {font-weight: 600;}
 
+@media print, screen and (max-width: 960px) {
+    header ul { position: inherit; }
+    }
+    
