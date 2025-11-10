@@ -8,7 +8,7 @@ In 2023, she founded a research network called [Technosemiotics](https://technos
 
 ## upcoming
 
-Autumn semester 2025: [Technosemiotics (FLSE.00.361, 6 ECTS)](https://ois2.ut.ee/#/courses/FLSE.00.361/version/c8216743-8523-ac31-93d5-f8242cb07326/details), elective course at the University of Tartu.
+Autumn semester 2025: [Technosemiotics (FLSE.00.361, 6 ECTS)](/teaching/technosemiotics/), elective course at the University of Tartu.
 
 
 ## latest publications
