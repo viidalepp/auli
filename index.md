@@ -29,10 +29,6 @@ Viidalepp, Auli (2023) [The Expected AI as a Sociocultural Construct and its Imp
 22.01.2025. The role of narratives in the weaponisation of deepfakes. Winter School “Narrative and the Mind”, Groningen, 20–24 January 2025. [doi:10.5281/zenodo.14708733](https://doi.org/10.5281/zenodo.14708733)
 
 
-23.10.2024. The AI as an envirotechnical system. [doi:10.5281/zenodo.13983378](https://zenodo.org/doi/10.5281/zenodo.13983378)
-
-05.09.2024. Apotheosis, apocalypse, and the epistemic collapse: technology and the semiotics of fear. [doi:10.5281/zenodo.13692242](https://zenodo.org/doi/10.5281/zenodo.13692242)
-
 
 [Vaba Akadeemia avalik loengusari tehisintellektist »](/loengusari-tehisintellektist/)
 
