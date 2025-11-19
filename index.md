@@ -6,7 +6,7 @@ Auli Viidalepp is a Research Fellow in Semiotics at the University of Tartu (Est
 In 2023, she founded a research network called [Technosemiotics](https://technosemiotics.net/). 
 
 
-## upcoming
+## upcoming 
 
 Autumn semester 2025: [Technosemiotics (FLSE.00.361, 6 ECTS)](/teaching/technosemiotics/), elective course at the University of Tartu.
 
