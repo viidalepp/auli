@@ -16,9 +16,8 @@ ul.menu, ul.menu li {padding-inline-start: 0; list-style-type: none;padding-bott
 
 p.social {text-align: right;}
 ul.social {list-style: none;text-align: right;}
-ul.social li {display: inline-block;font-variant: all-small-caps; font-size: 1.1em;padding: 0.1em;background: aliceblue;}
+ul.social li {display: inline-block; font-size: 1.1em;margin: 0.1em;}
 ul.social li.nobg {background: none;width: 1.1em;}
-ul.social li:hover {background: lightcyan;}
 ul.social li a {font-weight: 600;}
 
 @media print, screen and (max-width: 960px) {
