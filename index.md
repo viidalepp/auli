@@ -13,8 +13,8 @@ Autumn semester 2025: [Technosemiotics (FLSE.00.361, 6 ECTS)](/teaching/technose
 
 ## latest publications
 
-(forthcoming) Apotheosis, apocalypse, and the epistemic collapse: technology and
-the fear of future. In *Through the Lens of Dread: Exploring the Meaning-Making of Fear in the Mediasphere*, edited by Merit Maran, Andreas Ventsel, Mari-Liis Madisson. Tallinn: Tallinn University Press.
+Viidalepp, Auli (2025). Apotheosis, apocalypse, and the epistemic collapse: technology and
+the fear of future. — [*Through the Lens of Dread: Exploring the Meaning-Making of Fear in the Mediasphere*](https://www.tlu.ee/pood/home/456-through-the-lens-of-dread-exploring-the-meaning-making-of-fear-in-the-mediasphere.html), edited by Merit Maran, Andreas Ventsel, Mari-Liis Madisson. Tallinn: Tallinn University Press, 308–341. 
 
 Viidalepp, Auli (2025). Artificial intelligence as a *filter* and as a *philter*. In: Piluso, Francesco and Leone, Massimo (eds.) [*Semiotica dei filtri*. I saggi di Lexia 60.](https://www.aracneeditrice.eu/free-download/9791221818055.pdf) Rome: Aracne, 119-134.
 
