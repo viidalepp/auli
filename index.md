@@ -26,7 +26,7 @@ Viidalepp, Auli (2023) [The Expected AI as a Sociocultural Construct and its Imp
 
 ## latest conference presentations
 
-22.01.2025. The role of narratives in the weaponisation of deepfakes. Winter School “Narrative and the Mind”, Groningen, 20–24 January 2025. [doi:10.5281/zenodo.14708733](https://doi.org/10.5281/zenodo.14708733)
+28.11.2025. The use of generative AI in information influence activities. Budapest Workshop on Philosophy and Technology (BudPT25), 27–28 November 2025. [doi:10.5281/zenodo.17747981](https://doi.org/10.5281/zenodo.17747981)
 
 
 
