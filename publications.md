@@ -7,8 +7,7 @@ permalink: /publications/
 
 Migge, Bettina; Schneider, Britta; Leblebici, Didem; Erdocia, Iker; Lau, Mandy; Viidalepp, Auli; Savoldi, Beatrice; Podboj, Martina; Meer, Philipp; Alenezi, Mohammad; Sampietro, Agnese (forthcoming). Conceptualising Language in the Human-Machine Era: Language Ideologies and Language as Data. In: David Sayers, Maggie Glass, Helen Kelly-Holmes & Robert Fuchs (eds.), Language in the Human-Machine Era: New technologies and the coming transformation of language. Boston, MA.: MIT Press.
 
-(forthcoming) Apotheosis, apocalypse, and the epistemic collapse: technology and
-the fear of future. In *Through the Lens of Dread: Exploring the Meaning-Making of Fear in the Mediasphere*, edited by Merit Maran, Andreas Ventsel, Mari-Liis Madisson. Tallinn: Tallinn University Press, 308–341.
+Viidalepp, Auli (2025). Apotheosis, Apocalypse, and the Epistemic Collapse: Technology and Fear of the Future. In: Maran, Merit; Ventsel, Andreas; Madisson, Mari-Liis (eds.) [*Through the Lens of Dread: Exploring the Meaning-Making of Fear in the Mediasphere*](https://www.tlu.ee/pood/home/456-through-the-lens-of-dread-exploring-the-meaning-making-of-fear-in-the-mediasphere.html). Tallinn: Tallinn University Press, 308–341. 
 
 Viidalepp, Auli (2025). Artificial intelligence as a *filter* and as a *philter*. In: Piluso, Francesco and Leone, Massimo (eds.) [*Semiotica dei filtri*. I saggi di Lexia 60.](https://www.aracneeditrice.eu/free-download/9791221818055.pdf) Rome: Aracne, 119-134.
 
