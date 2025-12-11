@@ -1,5 +1,5 @@
 ---
-permalink: /PUTJD1202/
+permalink: /projects/PUTJD1202/
 ---
 
 ## a semiotic perspective on the use of ai in the context of information warfare
