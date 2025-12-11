@@ -11,7 +11,7 @@ permalink: /projects/
 
 
 
-[technosemiotics.net](https://technosemiotics.net/) - A network and resource centre for research on technology and society, founded in January 2023. 
+[technosemiotics.net](https://technosemiotics.net/) - A network and resource centre for research on technology and society 
 
 
 
