@@ -10,8 +10,8 @@ More and more technology is often proposed as a solution to environmental and cl
 
 - **Auli Viidalepp** Principal Investigator
 - **Tuuli Pern** Researcher
-- **Kati Lindström** Researcher
-- **Kaie Koppel** Facilitator
+- [**Kati Lindström**](https://www.katilindstrom.com/) Researcher
+- [**Kaie Koppel**](https://www.kaiekoppel.ee/) Researcher, Facilitator
 
 
 The start-up grant PSG1150 (01.02.2026–31.12.2030) is funded by [Estonian Research Council](https://etag.ee/en/).
