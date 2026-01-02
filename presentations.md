@@ -7,6 +7,8 @@ permalink: /presentations/
 
 ### 2025
 
+28.11.2025. The use of generative AI in information influence activities. Budapest Workshop on Philosophy and Technology, Budapest, 27–28 November, 2025. [doi:10.5281/zenodo.17747981](https://doi.org/10.5281/zenodo.17747981)
+
 26.11.2024. Technosemiotics today: Methods and research questions. Guest lecture in Media Semiotics, Charles University Prague. [doi:10.5281/zenodo.17721646](https://doi.org/10.5281/zenodo.17721646)
 
 20.11.2024. Infomõjutustegevus ja tehisintellekt. —- Semiootiline lähenemine väärinfole ja
