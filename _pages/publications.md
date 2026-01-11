@@ -5,6 +5,8 @@ permalink: /publications/
 
 ## publications
 
+Viidalepp, Auli; Olteanu, Alin (2025). Technological futures in semiotics: Looking back at the year 2024. Semiotica,  1−17. DOI: [10.1515/sem-2025-0243](https://doi.org/10.1515/sem-2025-0243).
+
 Migge, Bettina; Schneider, Britta; Leblebici, Didem; Erdocia, Iker; Lau, Mandy; Viidalepp, Auli; Savoldi, Beatrice; Podboj, Martina; Meer, Philipp; Alenezi, Mohammad; Sampietro, Agnese (forthcoming). Conceptualising Language in the Human-Machine Era: Language Ideologies and Language as Data. In: David Sayers, Maggie Glass, Helen Kelly-Holmes & Robert Fuchs (eds.), Language in the Human-Machine Era: New technologies and the coming transformation of language. Boston, MA.: MIT Press.
 
 Viidalepp, Auli (2025). Apotheosis, Apocalypse, and the Epistemic Collapse: Technology and Fear of the Future. In: Maran, Merit; Ventsel, Andreas; Madisson, Mari-Liis (eds.) [*Through the Lens of Dread: Exploring the Meaning-Making of Fear in the Mediasphere*](https://www.tlu.ee/pood/home/456-through-the-lens-of-dread-exploring-the-meaning-making-of-fear-in-the-mediasphere.html). Tallinn: Tallinn University Press, 308–341. 

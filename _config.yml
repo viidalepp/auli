@@ -8,6 +8,9 @@ nav: true
 social: true
 projects: true
 
+collections:
+  pages:
+    output: true
 
 defaults:
   -
@@ -16,3 +19,4 @@ defaults:
       type: "pages" # a collection in your site, in plural form
     values:
       layout: "default"
+

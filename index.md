@@ -6,35 +6,33 @@ Auli Viidalepp is a Research Fellow in Semiotics at the University of Tartu (Est
 In 2023, she founded a research network called [Technosemiotics](https://technosemiotics.net/). 
 
 
-## upcoming 
+## teaching
 
-Autumn semester 2025: [Technosemiotics (FLSE.00.361, 6 ECTS)](/teaching/technosemiotics/), elective course at the University of Tartu.
+[Technosemiotics (FLSE.00.361, 6 ECTS)](/teaching/technosemiotics/), an elective MA-level course at the University of Tartu.
 
 
-## latest publications
+## selected publications
+
+Viidalepp, Auli; Olteanu, Alin (2025). Technological futures in semiotics: Looking back at the year 2024. Semiotica,  1−17. DOI: [10.1515/sem-2025-0243](https://doi.org/10.1515/sem-2025-0243).
 
 Viidalepp, Auli (2025). Apotheosis, apocalypse, and the epistemic collapse: technology and
 the fear of future. — [*Through the Lens of Dread: Exploring the Meaning-Making of Fear in the Mediasphere*](https://www.tlu.ee/pood/home/456-through-the-lens-of-dread-exploring-the-meaning-making-of-fear-in-the-mediasphere.html), edited by Merit Maran, Andreas Ventsel, Mari-Liis Madisson. Tallinn: Tallinn University Press, 308–341. 
 
 Viidalepp, Auli (2025). Artificial intelligence as a *filter* and as a *philter*. In: Piluso, Francesco and Leone, Massimo (eds.) [*Semiotica dei filtri*. I saggi di Lexia 60.](https://www.aracneeditrice.eu/free-download/9791221818055.pdf) Rome: Aracne, 119-134.
 
-Arkhipova, Daria; Viidalepp, Auli (2023). Lotman’s semiotics of culture in the age of AI: analyzing the cultural dynamics of AI-generated video art in the semiosphere. *Semiotica*, 1−12. DOI: [10.1515/sem-2023-0167](https://doi.org/10.1515/sem-2023-0167).
+[See all publications »](/publications/)
 
-Viidalepp, Auli (2023) [The Expected AI as a Sociocultural Construct and its Impact on the Discourse on Technology](https://hdl.handle.net/10062/94238). PhD Thesis, University of Tartu. [https://hdl.handle.net/10062/94238](https://hdl.handle.net/10062/94238). 
-[*(Full thesis file including articles available in Researchgate)*](https://www.researchgate.net/publication/375828079_The_Expected_AI_as_a_sociocultural_construct_and_its_impact_on_the_discourse_on_technology)
-
-
-## latest conference presentations
+## selected conference presentations
 
 28.11.2025. The use of generative AI in information influence activities. Budapest Workshop on Philosophy and Technology (BudPT25), 27–28 November 2025. [doi:10.5281/zenodo.17747981](https://doi.org/10.5281/zenodo.17747981)
 
+[See all presentations »](/presentations/)
 
+
+## eesti keeles \| in Estonian language
 
 [Vaba Akadeemia avalik loengusari tehisintellektist »](/loengusari-tehisintellektist/)
 
+Viidalepp, Auli (2024). [Mida tehisintellekt meile tähendab](https://www.temuki.ee/2024/10/mida-tehisintellekt-meile-tahendab/) [What artificial intelligence means to us]. *Teater. Muusika. Kino.* 10: 106−115.
 
-## social | academic
-
-[A. Viidalepp on ORCID](https://orcid.org/0000-0002-6206-5681)<br>
-[A. Viidalepp on ETIS](https://www.etis.ee/CV/Auli_Viidalepp/eng)
 

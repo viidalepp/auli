@@ -2,6 +2,8 @@
 permalink: /resources/envirotech-ai/
 ---
 
+# envirotechnical ai mappings
+
 ## global materiality of technologies
 
 
@@ -12,6 +14,7 @@ permalink: /resources/envirotech-ai/
 - [Cartography of generative AI by Estampa](https://cartography-of-generative-ai.net/)
 - [Anatomy of an AI System](https://anatomyof.ai/) by Vladan Joler and Kate Crawford
 - [Global Atlas of Environmental Justice](https://ejatlas.org) 
+- [Calculating Empires: A Genealogy of Technology and Power Since 1500](https://calculatingempires.net/) by Kate Crawford and Vladan Joler (2023)
 
 
 
