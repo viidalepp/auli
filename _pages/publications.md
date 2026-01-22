@@ -5,7 +5,9 @@ permalink: /publications/
 
 ## publications
 
-Viidalepp, Auli; Olteanu, Alin (2025). Technological futures in semiotics: Looking back at the year 2024. Semiotica,  1−17. DOI: [10.1515/sem-2025-0243](https://doi.org/10.1515/sem-2025-0243).
+Viidalepp, Auli; Olteanu, Alin (2025). Les avenirs technologiques en sémiotique: Retour sur l’année 2024. *Semiotica* 267: 225-241. DOI: [10.1515/sem-2025-0243](https://doi.org/10.1515/sem-2025-0243).
+
+Viidalepp, Auli; Olteanu, Alin (2025). Technological futures in semiotics: The year 2024 in review. *Sign Systems Studies*, 53 (3/4), 594−610. DOI: [10.12697/SSS.2025.53.3-4.12](https://doi.org/10.12697/SSS.2025.53.3-4.12).
 
 Migge, Bettina; Schneider, Britta; Leblebici, Didem; Erdocia, Iker; Lau, Mandy; Viidalepp, Auli; Savoldi, Beatrice; Podboj, Martina; Meer, Philipp; Alenezi, Mohammad; Sampietro, Agnese (forthcoming). Conceptualising Language in the Human-Machine Era: Language Ideologies and Language as Data. In: David Sayers, Maggie Glass, Helen Kelly-Holmes & Robert Fuchs (eds.), Language in the Human-Machine Era: New technologies and the coming transformation of language. Boston, MA.: MIT Press.
 
@@ -13,7 +15,7 @@ Viidalepp, Auli (2025). Apotheosis, Apocalypse, and the Epistemic Collapse: Tech
 
 Viidalepp, Auli (2025). Artificial intelligence as a *filter* and as a *philter*. In: Piluso, Francesco and Leone, Massimo (eds.) [*Semiotica dei filtri*. I saggi di Lexia 60.](https://www.aracneeditrice.eu/free-download/9791221818055.pdf) Rome: Aracne, 119-134.
 
-Arkhipova, Daria; Viidalepp, Auli (2023). Lotman’s semiotics of culture in the age of AI: analyzing the cultural dynamics of AI-generated video art in the semiosphere. *Semiotica*, 1−12. DOI: [10.1515/sem-2023-0167](https://doi.org/10.1515/sem-2023-0167).
+Arkhipova, Daria; Viidalepp, Auli (2023). Lotman’s semiotics of culture in the age of AI: analyzing the cultural dynamics of AI-generated video art in the semiosphere. *Semiotica* 255: 149-160. DOI: [10.1515/sem-2023-0167](https://doi.org/10.1515/sem-2023-0167).
 
 (2022) The semiotic functioning of synthetic media. *Információs Társadalom*, 22(4), 109-118. [doi:10.22503/inftars.XXII.2022.4.9](https://inftars.infonia.hu/article.php?doi=inftars.XXII.2022.4.9)
 

@@ -13,7 +13,7 @@ In 2023, she founded a research network called [Technosemiotics](https://technos
 
 ## selected publications
 
-Viidalepp, Auli; Olteanu, Alin (2025). Technological futures in semiotics: Looking back at the year 2024. Semiotica,  1−17. DOI: [10.1515/sem-2025-0243](https://doi.org/10.1515/sem-2025-0243).
+Viidalepp, Auli; Olteanu, Alin (2025). Les avenirs technologiques en sémiotique: Retour sur l’année 2024. *Semiotica* 267: 225–241. DOI: [10.1515/sem-2025-0243](https://doi.org/10.1515/sem-2025-0243).
 
 Viidalepp, Auli (2025). Apotheosis, apocalypse, and the epistemic collapse: technology and
 the fear of future. — [*Through the Lens of Dread: Exploring the Meaning-Making of Fear in the Mediasphere*](https://www.tlu.ee/pood/home/456-through-the-lens-of-dread-exploring-the-meaning-making-of-fear-in-the-mediasphere.html), edited by Merit Maran, Andreas Ventsel, Mari-Liis Madisson. Tallinn: Tallinn University Press, 308–341. 
