@@ -2,7 +2,7 @@
 permalink: /teaching/sts2025/
 ---
 
-## Semiotics, Technology and Society
+# Semiotics, Technology and Society
 
 *University of Tartu, 28 July - 8 August 2025*
 

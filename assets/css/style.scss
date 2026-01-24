@@ -8,7 +8,13 @@ a:hover,a:focus {font-weight: 500; text-decoration: underline; background: light
 // header p.view {display:none}
 // footer p {display: none;}
 // footer p small {display: block;}
-h1,h2,h3,h4,h5,h6 {font-weight: 500;}
+h1,h2,h3,h4,h5,h6 {font-weight: 500;display: block;}
+
+section {
+    h2,h3,h4,h5,h6 {
+        border-bottom: 1px solid grey;
+    }
+}
 
 strong {color:inherit;}
 
@@ -17,8 +23,17 @@ ul.menu, ul.menu li {padding-inline-start: 0; list-style-type: none;padding-bott
 p.social {text-align: right;}
 p.social .left {text-align: left;}
 ul.social {list-style: none;text-align: right;}
-ul.social li {display: inline-block; font-size: 0.8em;margin: 0.1em;}
-ul.social li.nobg {background: none;width: 1.1em;}
+ul.social li {
+    display: inline-block; font-size: 0.8em;margin: 0.3em;
+}
+ul.social li.nobg {
+    width: 2em;
+
+    &:focus,
+    &:hover {
+        background: none;
+    }
+}
 ul.social li a {font-weight: 600;}
 
 @media print, screen and (max-width: 960px) {

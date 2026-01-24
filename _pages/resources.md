@@ -2,7 +2,7 @@
 permalink: /resources/
 ---
 
-## resources
+# resources
 
 
 

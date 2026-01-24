@@ -3,7 +3,7 @@ menu: none
 permalink: /teaching/ai-society/
 ---
 
-## Introduction to AI & Society
+# Introduction to AI & Society
 
 An intensive course with lectures on the history of AI, technology and society, science fiction and pop culture, current applications of AI, and practical exercises on making sense of the complex discourses on technology.
 

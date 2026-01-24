@@ -3,7 +3,7 @@ title: uurimisteemad
 permalink: /uurimisteemad/
 ---
 
-## uurimisteemad
+# uurimisteemad
 
 - Keskkonnatehnilised süsteemid
 - Keskkonna ja tehnoloogiaga seotud väärtused
@@ -21,7 +21,7 @@ permalink: /uurimisteemad/
 - Teadus- ja tehnoloogiauuringud
 - Tehnoloogia ajalugu
 
-### meetodid
+## meetodid
 
 - Diskursuseanalüüs
 - Põhistatud teooria ja *ad hoc* analüüs

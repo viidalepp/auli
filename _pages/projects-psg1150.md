@@ -2,7 +2,7 @@
 permalink: /projects/PSG1150/
 ---
 
-## envirotechnical intelligence: how imaginaries activate societal values
+# envirotechnical intelligence: how imaginaries activate societal values
 
 More and more technology is often proposed as a solution to environmental and climate problems. AI systems, however, have a huge and increasing environmental impact that is difficult to grasp. We argue that this difficulty is because the prevalent models and metaphors in our culture conceive of AI as an artefact or a being, and we can reveal the imaginative sensemaking underlying these representations. To overcome the anthropomorphism of AI, we propose to model its planetary envirotechnical reach, dependent on many people, communities, cultures and ecosystems. Drawing on semiotics and environmental humanities, we analyse the cultural imaginaries of AI and explore the societal values that are activated in debates about technology and the environment. The project will result in publications, a knowledge network, university courses, and a publicly available collection of curated information and teaching materials that provide insights into the global impact of modern technology.
 

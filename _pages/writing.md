@@ -2,7 +2,7 @@
 permalink: /writing/
 ---
 
-## useful resources for writing and research
+# useful resources for writing and research
 
 
 ### CARS - Creating A Research Space

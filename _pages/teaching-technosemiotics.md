@@ -3,7 +3,7 @@ permalink: /teaching/technosemiotics/
 ---
 
 
-## Technosemiotics (6 ECTS), autumn semester 2025, University of Tartu
+# Technosemiotics (6 ECTS), autumn semester 2025, University of Tartu
 
 [Technosemiotics (FLSE.00.361) course information »](https://ois2.ut.ee/#/courses/FLSE.00.361/version/c8216743-8523-ac31-93d5-f8242cb07326/details)
 

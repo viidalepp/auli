@@ -3,7 +3,7 @@ menu: nav
 permalink: /presentations/
 ---
 
-## lectures, seminars, conference presentations
+# lectures, seminars, conference presentations
 
 ### 2025
 

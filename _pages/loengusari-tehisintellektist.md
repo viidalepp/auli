@@ -3,7 +3,7 @@ menu: none
 permalink: /loengusari-tehisintellektist/
 ---
 
-## Vaba Akadeemia avalik loengusari tehisintellektist
+# Vaba Akadeemia avalik loengusari tehisintellektist
 
 [Vaba Akadeemia »](https://www.vabaakadeemia.ee/)
 

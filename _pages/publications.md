@@ -3,7 +3,7 @@ menu: nav
 permalink: /publications/
 ---
 
-## publications
+# publications
 
 Viidalepp, Auli; Olteanu, Alin (2025). Les avenirs technologiques en sémiotique: Retour sur l’année 2024. *Semiotica* 267: 225-241. DOI: [10.1515/sem-2025-0243](https://doi.org/10.1515/sem-2025-0243).
 

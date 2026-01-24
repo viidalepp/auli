@@ -4,7 +4,7 @@ permalink: /teaching/
 ---
 
 
-## teaching
+# teaching
 
 [useful resources for writing »](/writing/)
 

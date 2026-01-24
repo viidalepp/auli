@@ -2,7 +2,7 @@
 permalink: /voices/
 ---
 
-## indigenous voices
+# indigenous voices
 
 ### Daiara Tukano
 

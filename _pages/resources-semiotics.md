@@ -2,7 +2,7 @@
 permalink: /resources/semiotics/
 ---
 
-## semiotics: networks and projects
+# semiotics: networks and projects
 
 - 
 
