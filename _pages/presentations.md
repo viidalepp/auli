@@ -5,13 +5,17 @@ permalink: /presentations/
 
 # lectures, seminars, conference presentations
 
+### 2026
+
+08.04.2026. Tuleviku taltsutamine: sotsiotehnilised kujutelmad hirmudiskursuses. Eesti humanitaarteaduste aastakonverents, 8.-10. aprill 2026, Tartu. [doi:10.5281/zenodo.19470524](https://doi.org/10.5281/zenodo.19470524)
+
 ### 2025
 
 28.11.2025. The use of generative AI in information influence activities. Budapest Workshop on Philosophy and Technology, Budapest, 27–28 November, 2025. [doi:10.5281/zenodo.17747981](https://doi.org/10.5281/zenodo.17747981)
 
-26.11.2024. Technosemiotics today: Methods and research questions. Guest lecture in Media Semiotics, Charles University Prague. [doi:10.5281/zenodo.17721646](https://doi.org/10.5281/zenodo.17721646)
+26.11.2025. Technosemiotics today: Methods and research questions. Guest lecture in Media Semiotics, Charles University Prague. [doi:10.5281/zenodo.17721646](https://doi.org/10.5281/zenodo.17721646)
 
-20.11.2024. Infomõjutustegevus ja tehisintellekt. —- Semiootiline lähenemine väärinfole ja
+20.11.2025. Infomõjutustegevus ja tehisintellekt. —- Semiootiline lähenemine väärinfole ja
 infomõjutustegevusele (FLSE.00.346).
 
 19.05.2025. Technology, semiocides and nondiscrete meaning-making. Brown Bag seminar at KTH Royal Institute of Technology, Stockholm, Sweden.
