@@ -4,9 +4,9 @@ permalink: /teaching/
 ---
 
 
-# teaching
+### 2026
 
-[useful resources for writing »](/writing/)
+[Technosemiotics (FLSE.00.361, 6 ECTS)](https://ois2.ut.ee/#/courses/FLSE.00.361/version/hv-2026-autumn-fulltime-en/details). September–December 2026.
 
 ### 2025
 
