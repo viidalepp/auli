@@ -3,7 +3,7 @@ permalink: /teaching/technosemiotics/
 ---
 
 
-# Technosemiotics (6 ECTS), autumn semester 2025, University of Tartu
+# Technosemiotics (6 ECTS), University of Tartu
 
 ### Course information
 
