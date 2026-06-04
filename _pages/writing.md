@@ -43,3 +43,8 @@ Caroline Ammon, [Introduction Section for Research Papers](https://www.sjsu.edu/
 ### structured thinking
 
 - [Coggle.it](https://coggle.it/) mindmapping web app
+
+
+### other
+
+- Online [word cloud generator](https://wordclouds.ethz.ch/)
