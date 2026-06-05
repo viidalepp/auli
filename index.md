@@ -24,6 +24,8 @@ Viidalepp, Auli (2025). Artificial intelligence as a *filter* and as a *philter*
 
 ## selected conference presentations
 
+05.06.2026. Environmental signs and automated agencies. The 6th Conference of the International Association for Cognitive Semiotics (IACS6), 4-6 June 2026, Rome. Zenodo. [doi:10.5281/zenodo.20558829](https://doi.org/10.5281/zenodo.20558829)
+
 08.04.2026. Tuleviku taltsutamine: sotsiotehnilised kujutelmad hirmudiskursuses. Eesti humanitaarteaduste aastakonverents, 8.-10. aprill 2026, Tartu. [doi:10.5281/zenodo.19470524](https://doi.org/10.5281/zenodo.19470524)
 
 28.11.2025. The use of generative AI in information influence activities. Budapest Workshop on Philosophy and Technology (BudPT25), 27–28 November 2025. [doi:10.5281/zenodo.17747981](https://doi.org/10.5281/zenodo.17747981)
