@@ -1,7 +1,7 @@
 ---
 ---
 
-Auli Viidalepp is a Research Fellow in Semiotics at the University of Tartu (Estonia). She has studied the impact and functioning of AI-generated media in information influence activities and the functioning and perception of generative AI in culture. As the PI of the project [*Envirotechnical intelligence: how imaginaries activate societal values*](/projects/PSG1150/), she is developing a technosemiotic framework to analyse the semiotic, sociocultural and environmental implications of technological systems.
+Auli Viidalepp is a Research Fellow in Semiotics at the University of Tartu (Estonia). Her research focuses broadly on the semiotic, sociocultural and environmental implications of technological systems. She investigates how synthetic media interfere with our habitual meaning-making mechanisms and how sociotechnical imaginaries impact the perception of and expectations to AI systems in society. As the PI of the project [*Envirotechnical intelligence: how imaginaries activate societal values*](/projects/PSG1150/), she is developing a technosemiotic framework to analyse the environmental, socio-material and semiotic becoming, functioning and impact of complex technological systems.
 
 In 2023, she founded a research network called [Technosemiotics](https://technosemiotics.net/). 
 
