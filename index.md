@@ -24,7 +24,9 @@ Viidalepp, Auli (2025). Artificial intelligence as a *filter* and as a *philter*
 
 ## selected conference presentations
 
-05.06.2026. Environmental signs and automated agencies. The 6th Conference of the International Association for Cognitive Semiotics (IACS6), 4-6 June 2026, Rome. Zenodo. [doi:10.5281/zenodo.20558829](https://doi.org/10.5281/zenodo.20558829)
+11.06.2026. Representation without reference: Symbolic hegemony in the age of generative media. The 16th Annual Lotman Days «The End: Finality and Renewal in Culture», 10-12 June 2026, Tallinn, Estonia. [doi:10.5281/zenodo.20643292](https://doi.org/10.5281/zenodo.20643291).
+
+05.06.2026. Environmental signs and automated agencies. The 6th Conference of the International Association for Cognitive Semiotics (IACS6), 4-6 June 2026, Rome. [doi:10.5281/zenodo.20558829](https://doi.org/10.5281/zenodo.20558829)
 
 08.04.2026. Tuleviku taltsutamine: sotsiotehnilised kujutelmad hirmudiskursuses. Eesti humanitaarteaduste aastakonverents, 8.-10. aprill 2026, Tartu. [doi:10.5281/zenodo.19470524](https://doi.org/10.5281/zenodo.19470524)
 
