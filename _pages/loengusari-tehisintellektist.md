@@ -7,10 +7,21 @@ permalink: /loengusari-tehisintellektist/
 
 [Vaba Akadeemia »](https://www.vabaakadeemia.ee/)
 
+**Kõikide loengute slaidid leiab Zenodost:**
+
+1. Tehisintellektist semiootiku pilguga. [doi:10.5281/zenodo.20759440](https://doi.org/10.5281/zenodo.20759440)
+2. Ajaloolised « robotid ». [doi:10.5281/zenodo.20759577](https://doi.org/10.5281/zenodo.20759577)
+3. Robotite kujutamine tänapäeva ulmefilmides. [doi:10.5281/zenodo.20759635](https://doi.org/10.5281/zenodo.20759635)
+4. Tehisintellekt tänapäeval: kuidas pildigeneraatorite levik mõjutab kunstnike elu ja tööd. [https://doi.org/10.5281/zenodo.20759669](doi:10.5281/zenodo.20759669)
+5. Sünteetiliste tekstide toimimine kultuuris. [doi:10.5281/zenodo.20759701](https://doi.org/10.5281/zenodo.20759701)
+6. Kuidas piiritleda tehisintellekti? [doi:10.5281/zenodo.20759727](https://doi.org/10.5281/zenodo.20759727)
+
+
 ### 1- Tehisintellektist semiootiku pilguga. 04.02.2022.
 Esimene ettekanne puudutab tehisintellekti mõiste ajalugu, tähendusi ja osutusi. Mida on selle all mõeldud ja missuguseid objekte ja ideid on sellega erinevatel kümnenditel tähistatud? Vaatleme ka mõningaid autoreid, keda peetakse tänapäeval tehisintellekti-uuringute eelkäijateks ja tutvume nende peamiste ideedega.
 
-Vaata järgi: [Vaba Akadeemia kanal »](https://youtu.be/gEoEBE7qHgY) [Postimees TV »](https://teadus.postimees.ee/7443757/vaba-akadeemia-loeng-auli-viidalepp-tehisintellektist-semiootiku-pilguga) [Vaba Akadeemia podcast »](https://postimees.pleier.ee/podcast/vaba-akadeemia/127005)
+Vaata järgi: [Vaba Akadeemia kanal »](https://youtu.be/gEoEBE7qHgY) 
+[Postimees TV »](https://teadus.postimees.ee/7443757/vaba-akadeemia-loeng-auli-viidalepp-tehisintellektist-semiootiku-pilguga) [Vaba Akadeemia podcast »](https://postimees.pleier.ee/podcast/vaba-akadeemia/127005)
 
 
 ### 2- Ajaloolised «robotid». 04.03.2022.
