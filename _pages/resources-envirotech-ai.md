@@ -2,7 +2,7 @@
 permalink: /resources/envirotech-ai/
 ---
 
-# envirotechnical ai mappings
+# envirotechnical ai
 
 ## global materiality of technologies
 
