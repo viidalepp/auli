@@ -28,9 +28,14 @@ Some templates found on the web that have inspired me. Templates include pulling
 ## Obsidian Dataview
 
 - [Obsidian Dataview plugin](https://blacksmithgu.github.io/obsidian-dataview)
+- [Obsidian forum](https://forum.obsidian.md/)
 - [Beginners' guide to Dataview](https://denisetodd.medium.com/obsidian-dataview-for-beginners-a-checklist-to-help-fix-your-dataview-queries-11acc57f1e48)
 - [Obsidian Hub guide to dataview](https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/Guides/An+Introduction+to+Dataview)
 - [obsidian_dataview_example_vault](https://github.com/s-blu/obsidian_dataview_example_vault/)
+- [Dataview date formatting](https://forum.obsidian.md/t/dataview-date-formatting/37456/2)
+- [dataview structure with ctime](https://forum.obsidian.md/t/help-with-dataview-inside-template/73674/4)
+- [dataview forum on github](https://github.com/blacksmithgu/obsidian-dataview/discussions/)
+
 - [Zotero -> zotfile -> mdnotes -> obsidian -> dataview Workflow](https://forum.obsidian.md/t/zotero-zotfile-mdnotes-obsidian-dataview-workflow/15536)
 
 
