@@ -25,8 +25,11 @@ Some templates found on the web that have inspired me. Templates include pulling
 - [My Zotero annotation template that works](https://forum.obsidian.md/t/my-zotero-annotation-template-that-works/51662)
 - [IIKris: obsidian-zotero](https://github.com/IIKris/obsidian-zotero) 
 
-## Dataview workflows
+## Obsidian Dataview
 
+- [Obsidian Dataview plugin](https://blacksmithgu.github.io/obsidian-dataview)
+- [Beginners' guide to Dataview](https://denisetodd.medium.com/obsidian-dataview-for-beginners-a-checklist-to-help-fix-your-dataview-queries-11acc57f1e48)
+- [obsidian_dataview_example_vault](https://github.com/s-blu/obsidian_dataview_example_vault/)
 - [Zotero -> zotfile -> mdnotes -> obsidian -> dataview Workflow](https://forum.obsidian.md/t/zotero-zotfile-mdnotes-obsidian-dataview-workflow/15536)
 
 
