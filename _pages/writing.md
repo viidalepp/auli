@@ -31,3 +31,5 @@ permalink: /writing/
 - [Voyant Tools](https://voyant-tools.org/) - a web-based reading and analysis environment for digital texts
 - Online [word cloud generator](https://wordclouds.ethz.ch/)
 
+## tool comparisons
+- [How to Choose a Reference Manager?](https://medium.com/@ela.markovic/how-to-choose-a-reference-manager-f3e3d4807e60) Mendeley vs Zotero vs JabRef
