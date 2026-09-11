@@ -16,7 +16,10 @@ The start-up grant PSG1150 (01.02.2026–31.12.2030) is funded by [Estonian Rese
 - **Tuuli Pern** Researcher
 - [**Kati Lindström**](https://www.katilindstrom.com/) Researcher
 - [**Kaie Koppel**](https://www.kaiekoppel.ee/) Researcher, Facilitator
-- **Gabriel M. Bergman** Research Assistant
+- **Gabriel M. Bergman** Researcher
 
 
 
+### Our definition of technosemiotics (June 9, 2026)
+
+Technosemiotics is the study of how meanings are created, transmitted, restructured and interpreted by semiotic agents through voluntary use of or being affected by technologies, or the study of ideas about these processes.
